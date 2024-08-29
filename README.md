@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![banner](https://user-images.githubusercontent.com/yourusername/banner.png)
 
-# Hi there 👋, I'm Sefa!
+# Hi there 👋, I'm Safa!
 
 ---
 
@@ -17,6 +17,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SafaKaya) 
+
 
 ---
 
@@ -35,25 +36,27 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=SefaK51&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SefaK51&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SefaK51&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### Most Used Language:
+<div style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge" />
+  <img src="https://your-animated-gif-url" alt="Progress Bar" style="height: 30px; width: 200px;" />
+  <span style="font-size: 20px; margin-left: 10px;">100%</span>
+</div>
 
 ---
 
-🔥 Let’s Connect!
+## 🔥 Let’s Connect!
+
 <p align="center">
   <a href="https://www.github.com/SefaK51">
     <img src="https://img.shields.io/github/followers/SefaK51?label=Follow&style=social" alt="GitHub Follow" />
   </a>
-  <a href="https://twitter.com/your-twitter-username">
-    <img src="https://img.shields.io/twitter/follow/your-twitter-username?style=social" alt="Twitter Follow" />
-  </a>
-  <a href="https://www.instagram.com/MobileDevsefa">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=social&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  
 </p>
 
+---
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </p>
-
