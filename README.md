@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" alt="Profile Image" width="1000" height="500" />
+  <img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" alt="Profile Image" width="1000" height="480" />
 </p>
 
 
