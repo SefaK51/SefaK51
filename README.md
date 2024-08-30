@@ -93,7 +93,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
