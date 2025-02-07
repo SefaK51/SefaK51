@@ -14,9 +14,9 @@
 
 ## 🚀 Über mich
 
-- 💥 Ich arbeite gerade an einem Kotlin-Projekt in Android Studio.
-- 🤖 Ich lerne derzeit Kotlin in Android Studio.
-- 🛠️ Nächste Ziele: Swift, SwiftUI, Dart/Flutter.
+- 💥 Ich arbeite gerade an einem iOS-Projekt in XCode.
+- 🤖 Ich lerne derzeit Swift in XCode.
+- 🛠️ Nächste Ziele: Dart/Flutter, KI.
 - 🎮 Interessen: Technik, Coding, Games, AI.
 
 ---
